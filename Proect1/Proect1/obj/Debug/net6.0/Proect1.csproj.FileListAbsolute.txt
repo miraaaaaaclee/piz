@@ -1,0 +1,15 @@
+C:\Users\dasha\source\repos\Proect1\Proect1\bin\Debug\net6.0\Proect1.exe
+C:\Users\dasha\source\repos\Proect1\Proect1\bin\Debug\net6.0\Proect1.deps.json
+C:\Users\dasha\source\repos\Proect1\Proect1\bin\Debug\net6.0\Proect1.runtimeconfig.json
+C:\Users\dasha\source\repos\Proect1\Proect1\bin\Debug\net6.0\Proect1.dll
+C:\Users\dasha\source\repos\Proect1\Proect1\bin\Debug\net6.0\ref\Proect1.dll
+C:\Users\dasha\source\repos\Proect1\Proect1\bin\Debug\net6.0\Proect1.pdb
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.csproj.AssemblyReference.cache
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.AssemblyInfoInputs.cache
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.AssemblyInfo.cs
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.dll
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\ref\Proect1.dll
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.pdb
+C:\Users\dasha\source\repos\Proect1\Proect1\obj\Debug\net6.0\Proect1.genruntimeconfig.cache
