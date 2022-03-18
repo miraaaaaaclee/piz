@@ -1,0 +1,11 @@
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.csproj.AssemblyReference.cache
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.Properties.Resources.resources
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.csproj.GenerateResource.cache
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\bin\Debug\lab6_dopolnit.exe.config
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\bin\Debug\lab6_dopolnit.exe
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\bin\Debug\lab6_dopolnit.pdb
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.Form1.resources
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.exe
+C:\Users\dasha\source\repos\lab6_dopolnit\lab6_dopolnit\obj\Debug\lab6_dopolnit.pdb
