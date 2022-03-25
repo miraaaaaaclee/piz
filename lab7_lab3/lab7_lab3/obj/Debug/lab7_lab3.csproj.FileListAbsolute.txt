@@ -1,0 +1,10 @@
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.csprojAssemblyReference.cache
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.Form1.resources
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.Properties.Resources.resources
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.csproj.GenerateResource.cache
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.csproj.CoreCompileInputs.cache
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\bin\Debug\lab7_lab3.exe.config
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\bin\Debug\lab7_lab3.exe
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\bin\Debug\lab7_lab3.pdb
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.exe
+C:\Users\mzhukova\Desktop\lab7_lab3\lab7_lab3\obj\Debug\lab7_lab3.pdb
