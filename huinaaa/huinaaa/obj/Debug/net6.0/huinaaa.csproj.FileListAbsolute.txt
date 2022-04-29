@@ -1,0 +1,15 @@
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.csproj.AssemblyReference.cache
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.AssemblyInfoInputs.cache
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.AssemblyInfo.cs
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\huinaaa\huinaaa\bin\Debug\net6.0\huinaaa.exe
+C:\Users\dasha\source\repos\huinaaa\huinaaa\bin\Debug\net6.0\huinaaa.deps.json
+C:\Users\dasha\source\repos\huinaaa\huinaaa\bin\Debug\net6.0\huinaaa.runtimeconfig.json
+C:\Users\dasha\source\repos\huinaaa\huinaaa\bin\Debug\net6.0\huinaaa.dll
+C:\Users\dasha\source\repos\huinaaa\huinaaa\bin\Debug\net6.0\ref\huinaaa.dll
+C:\Users\dasha\source\repos\huinaaa\huinaaa\bin\Debug\net6.0\huinaaa.pdb
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.dll
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\ref\huinaaa.dll
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.pdb
+C:\Users\dasha\source\repos\huinaaa\huinaaa\obj\Debug\net6.0\huinaaa.genruntimeconfig.cache
